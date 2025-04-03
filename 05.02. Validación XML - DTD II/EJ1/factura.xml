@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: [Alejandro González Galindo] 
+Curso: [Asir] 
+Fecha: [3/4/2025] 
+Ejercicio: [Factura electrónica] 
+-->
 <!DOCTYPE factura SYSTEM "factura.dtd">
 <factura numero="F1234" fecha="2025-04-03">
     <datos-emisor>
