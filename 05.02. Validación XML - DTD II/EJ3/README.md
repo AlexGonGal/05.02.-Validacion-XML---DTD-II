@@ -1,0 +1,1 @@
+He creado el elemento raiz aeropuerto en el que he metido elementos con su nombre y fecha y con los vuelos que se realizan. Los vuelos tienen dos atributos obligatorios y diferentes elementos en los que se incluye la información de los mismos.
