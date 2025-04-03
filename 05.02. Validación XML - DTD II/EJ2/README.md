@@ -1,0 +1,1 @@
+He creado el elemento raiz EquiposNBA, en el que he metido 2 veces el subelemento equipo en el que a su vez, se encuentran todos los detalles de cada franquicia tal y como se pide en el enunciado.
