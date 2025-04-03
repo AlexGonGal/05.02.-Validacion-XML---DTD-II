@@ -1,0 +1,1 @@
+He creado el elemento raiz factura que contiene dos atributos obligatorios. En él, he metido diferentes elementos que aportan los datos del emisor, del cliente y los detalles de la factura. En dichos detalles, hay subelementos que aportan toda la información requerida y, en el elemento línea, hay 2 atributos obligatorios como lo son el código y el tipo.
