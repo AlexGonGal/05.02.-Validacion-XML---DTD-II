@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE factura SYSTEM "factura.dtd">
+<factura numero="F1234" fecha="2025-04-03">
+    <datos-emisor>
+        <nombre>Librería Central Madrid</nombre>
+        <cif>A12345678</cif>
+        <telefono>912345678</telefono>
+    </datos-emisor>
+    <datos-cliente>
+        <nombre>Biblioteca Municipal Getafe</nombre>
+        <cif>B12345678</cif>
+        <telefono>987654321</telefono>
+    </datos-cliente>
+    <detalle-factura importe="250.00">
+        <linea codigo-articulo="L001" tipo="Libro">
+            <descripcion>El Principito</descripcion>
+            <cantidad>3</cantidad>
+            <pvp>15.00</pvp>
+        </linea>
+        <linea codigo-articulo="D002" tipo="DVD">
+            <descripcion>Película educativa</descripcion>
+            <cantidad>2</cantidad>
+            <pvp>20.00</pvp>
+            <oferta />
+        </linea>
+    </detalle-factura>
+</factura>
